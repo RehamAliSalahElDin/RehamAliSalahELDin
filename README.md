@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hello, I'm Reham 👋" src="./Header/gh-readme-header.png" />
+  <img width="80%" alt="Hello, I'm Reham 👋" src="Header.png" />
 </p>
 
 <br />
