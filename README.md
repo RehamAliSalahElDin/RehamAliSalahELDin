@@ -89,10 +89,6 @@
 
 ---
 
-| ------------- | ------------- |
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/reham-ali-salah-a69691330  
