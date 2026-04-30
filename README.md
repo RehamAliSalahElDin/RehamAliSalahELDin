@@ -11,11 +11,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Engineering student at **Helwan National University (2023–2028)**
+- 🎓 Engineering student at **Helwan National University (2023–Present)**
 - 📊 Passionate about **Data Analysis, Machine Learning, and AI Systems**
 - 🤖 Interested in **Embedded Systems & Smart Applications**
 - 💡 I enjoy turning raw data into insights and building real-world intelligent systems
-- 💬 Ask me about **Data Analysis, Python, SQL, or Embedded Systems**
+- 💬 Ask me about **Data Analysis, Python, SQL**
 
 ---
 
@@ -99,13 +99,13 @@
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/reham-ali-salah-a69691330  
-- 📧 Email: rehamalisalah@gmail.com  
 
+  
 ---
 
 ## ✨ Goals
 
-- 🚀 Land a strong internship in **Data / AI / Embedded Systems**
+- 🚀 Land a strong internship in **Data / AI / Embedded Systems / Full Stack**
 - 📚 Keep building real-world impactful projects
 - 💪 Become a top-tier engineer with a strong technical profile
 
