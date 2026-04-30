@@ -1,46 +1,114 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <img width="80%" alt="Hello, I'm Reham 👋" src="./assets/gh-readme-header.png" />
+</p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+# Hi, I'm Reham Ali 👩‍💻  
+🎓 Intelligent Systems Engineering Student | Data & AI Enthusiast  
 
-**About me**
+---
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+## 🚀 About Me
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 🎓 Engineering student at **Helwan National University (2023–2028)**
+- 📊 Passionate about **Data Analysis, Machine Learning, and AI Systems**
+- 🤖 Interested in **Embedded Systems & Smart Applications**
+- 💡 I enjoy turning raw data into insights and building real-world intelligent systems
+- 💬 Ask me about **Data Analysis, Python, SQL, or Embedded Systems**
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+---
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+## 🛠️ Tech Stack
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+### 📊 Data & AI
+- Python (Pandas, NumPy)
+- Machine Learning
+- Data Analysis & EDA
+- Power BI, Tableau
+- Matplotlib, Seaborn
 
+### 💻 Programming
+- Python | SQL | C | C++ | Java
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+### 🗄️ Databases
+- SQL Server
+- Database Design (ERD, Normalization, Query Optimization)
+
+### ⚡ Embedded Systems
+- ATmega32 | Arduino | ESP32  
+- PWM | Motor Control (L293D, L298N)  
+- Interrupts | PCB & SMT  
+
+### 🔌 Electronics
+- Logic Gates  
+- Circuit Design (Proteus)
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 Multimodal Fight Detection System
+- Combined **DSP + Deep Learning (LRCN: MobileNetV2 + LSTM)**
+- Achieved **~94% validation accuracy**
+- Real-time alerts using Arduino + GUI
+
+---
+
+### 🏥 Hospital Management System (Database Design)
+- Designed full **ERD + relational schema**
+- Implemented using **SQL Server**
+- Includes optimization & stored procedures
+
+---
+
+### 📊 Sales Performance Dashboard
+- Built using **Excel + Power BI**
+- Power Query → Power Pivot pipeline  
+- Interactive KPIs & business insights
+
+---
+
+### 🎯 Student Recommendation System (AI)
+- AI-based course recommendation engine
+- Uses ranking algorithm + preference analysis
+
+---
+
+### 🚗 Smart Cooling Car (Embedded)
+- ESP32-based system with **PWM motor control**
+- Real-time remote operation
+- Integrated cooling mechanism
+
+---
+
+### 🔢 IR Object Counter & Digital Systems
+- IR Counter (LM358 + CD4026 + 7-Segment)
+- Digital Lock (JK Flip-Flops)
+- Line Following Robot
+
+---
+
+## 📈 GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-#### Top Repositories
+---
 
+## 🌐 Connect With Me
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+- 💼 LinkedIn: https://linkedin.com/in/reham-ali-salah-a69691330  
+- 📧 Email: rehamalisalah@gmail.com  
 
-<br />
-<br />
+---
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+## ✨ Goals
 
+- 🚀 Land a strong internship in **Data / AI / Embedded Systems**
+- 📚 Keep building real-world impactful projects
+- 💪 Become a top-tier engineer with a strong technical profile
+
+---
+
+⭐ *"Consistency beats motivation — I show up even when I don’t feel like it."*
